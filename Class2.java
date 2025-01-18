@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Ralph Wheeler
  */
 
 public class Class2 {
